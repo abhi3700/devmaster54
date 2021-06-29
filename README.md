@@ -47,7 +47,10 @@ Test Driven Development (TDD) and Continuous Integration (CI) with Jenkins.  The
 
 ## About Me
 
-I have over 25 years of development experience.  Yes, I am that old.  I am also an avid investor in startups and run a successful innovation fund.  I am passionate about DeFi, so much so that I have most of my own wealth in crypto.
+I am a punctuated and solution oriented fullstack engineer. And also, I am ambitious, organized and detail oriented. I have over 10 years of experience in software design and development. I am strong at Ecommerce, Fintech, Blockchain, DeFi, Machine learning technologies. And, have some experience with data visualization.
+
+My key skills are creative thinking and excellent algorithms.
+I like to play key Developer and Software Architect roles, and sometimes I also play the roles of Team Lead, Project Coordinator, Code Reviewer or Auditor.
 
 ### Qualifications
 
